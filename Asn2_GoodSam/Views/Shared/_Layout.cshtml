@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("The Good Samaritan", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    @if (User.IsInRole("Administrator"))
+                    {
+                        <li>@Html.ActionLink("Users", "Index", "ApplicationUsers")</li>
+                        <li>@Html.ActionLink("Roles", "Index", "Roles")</li>
+                        <li>@Html.ActionLink("Clients", "Index", "ClientsCRUD")</li>
+                        @*<li>@Html.ActionLink("Smart Report Details", "Index", "Smarts")</li>*@
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="row" style="width: 700px;">
+                                        <ul class="list-unstyled col-md-4">
+                                            <li>@Html.ActionLink("MVCReport", "Index", "Report")</li>
+                                            <li>@Html.ActionLink("APIReport", "ReportPage", "Home")</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lookup Tables<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="row" style="width: 700px;">
+                                        <ul class="list-unstyled col-md-4">
+                                            <li>@Html.ActionLink("Abuser Relationship", "Index", "AbuserRelationships")</li>
+                                            <li>@Html.ActionLink("Age", "Index", "Ages")</li>
+                                            <li>@Html.ActionLink("Assigned Worker", "Index", "AssignedWorkers")</li>
+                                            <li>@Html.ActionLink("Bad Date Report", "Index", "BadDateReports")</li>
+                                            <li>@Html.ActionLink("City Of Assault", "Index", "CityOfAssaults")</li>
+                                            <li>@Html.ActionLink("City Of Residence", "Index", "CityOfResidences")</li>
+                                            <li>@Html.ActionLink("Crisis", "Index", "Crises")</li>
+                                            <li>@Html.ActionLink("Drug Facilitated Assault", "Index", "DrugFacilitatedAssaults")</li>
+                                            <li>@Html.ActionLink("Duplicate File", "Index", "DuplicateFiles")</li>
+                                            <li>@Html.ActionLink("Ethnicity", "Index", "Ethnicities")</li>
+                                            <li>@Html.ActionLink("Evidence Stored", "Index", "EvidenceStoreds")</li>
+                                            <li>@Html.ActionLink("Family Violence File", "Index", "FamilyViolenceFiles")</li>
+                                        </ul>
+                                        <ul class="list-unstyled col-md-4">
+                                            <li>@Html.ActionLink("Fiscal Year", "Index", "FiscalYears")</li>
+                                            <li>@Html.ActionLink("HIV Meds", "Index", "HIVMeds")</li>
+                                            <li>@Html.ActionLink("Hospital Attended", "Index", "HospitalAttendeds")</li>
+                                            <li>@Html.ActionLink("Incident", "Index", "Incidents")</li>
+                                            <li>@Html.ActionLink("Medical Only", "Index", "MedicalOnlies")</li>
+                                            <li>@Html.ActionLink("Multiple Perpetrator", "Index", "MultiplePerpetrators")</li>
+                                            <li>@Html.ActionLink("Police Attendance", "Index", "PoliceAttendances")</li>
+                                            <li>@Html.ActionLink("Police Reported", "Index", "PoliceReporteds")</li>
+                                            <li>@Html.ActionLink("Program", "Index", "Programs")</li>
+                                            <li>@Html.ActionLink("Referral Contact", "Index", "ReferralContacts")</li>
+                                            <li>@Html.ActionLink("Referral Source", "Index", "ReferralSources")</li>
+                                            <li>@Html.ActionLink("Referred To CBVS", "Index", "ReferredToCBVS")</li>
+                                        </ul>
+                                        <ul class="list-unstyled col-md-4">
+                                            <li>@Html.ActionLink("Referring Hospital", "Index", "ReferringHospitals")</li>
+                                            <li>@Html.ActionLink("Repeat Client", "Index", "RepeatClients")</li>
+                                            <li>@Html.ActionLink("Risk Level", "Index", "RiskLevels")</li>
+                                            <li>@Html.ActionLink("Risk Status", "Index", "RiskStatus")</li>
+                                            <li>@Html.ActionLink("Service", "Index", "Services")</li>
+                                            <li>@Html.ActionLink("Sex Work/Exploitation", "Index", "SexWorks")</li>
+                                            <li>@Html.ActionLink("Social Work Attendance", "Index", "SocialWorkAttendances")</li>
+                                            <li>@Html.ActionLink("Status Of File", "Index", "StatusOfFiles")</li>
+                                            <li>@Html.ActionLink("Third Party Report", "Index", "ThirdPartyReports")</li>
+                                            <li>@Html.ActionLink("Victim Of Incident", "Index", "VictimOfIncidents")</li>
+                                            <li>@Html.ActionLink("Victim Services Attendance", "Index", "VictimServicesAttendances")</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    <!--<li>@Html.ActionLink("Clients", "Index", "Clients")</li>-->
+                    }
+                    @if (User.IsInRole("Worker"))
+                    {
+                        <li>@Html.ActionLink("Clients", "Index", "ClientsCRUD")</li>
+                    }
+                    @if (User.IsInRole("Report"))
+                    {
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="row" style="width: 700px;">
+                                        <ul class="list-unstyled col-md-4">
+                                            <li>@Html.ActionLink("MVCReport", "Index", "Report")</li>
+                                            <li>@Html.ActionLink("APIReport", "ReportPage", "Home")</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    }
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

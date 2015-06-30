@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Report</title>
+    <script data-require="angular.js@*" data-semver="1.3.0-beta.5" src="https://code.angularjs.org/1.3.0-beta.5/angular.js"></script>
+    <link href="Content/Site.css" rel="stylesheet" />
+
+    <script src="Scripts/jquery-2.1.3.min.js"></script>
+
+    <script src="MainController.js"></script>
+    <script src="ClientService.js"></script>
+    <script src="WorkerService.js"></script>
+    <script src="DropdownListHelper.js"></script>
+
+    <script type="text/javascript">
+        function GetWorkersList(target) {
+            jQuery.support.cors = true;
+            $.ajax({
+                url: 'http://a3.fredbcit.xyz/api/AssignedWorkersAPI/',
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    WriteResponseWorker(data, target);
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+
+        function WriteResponseWorker(people, target) {
+            var strResult = "<Select id='workerOptions' onchange='run1()' required>";
+            strResult += "<option value=''>Select...</option>";
+            $.each(people, function (index, person) {
+                strResult += "<option>";
+                strResult += person.AssignedWorkerName;
+                strResult += "</option>";
+            });
+            strResult += "</Select>\n";
+            $(target).html(strResult);
+        }
+
+        function GetStatusList(target) {
+            jQuery.support.cors = true;
+            $.ajax({
+                url: 'http://a3.fredbcit.xyz/api/StatusOfFilesAPI/',
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    WriteResponseStatus(data, target);
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+
+        function WriteResponseStatus(status, target) {
+            var strResult = "<Select id='statusOptions' onchange='run2()' required>";
+            strResult += "<option value=''>Select...</option>";
+            $.each(status, function (index, stat) {
+                strResult += "<option>";
+                strResult += stat.StatusOfFileName;
+                strResult += "</option>";
+            });
+            strResult += "</Select>\n";
+            $(target).html(strResult);
+        }
+
+        function run1() {
+            var e = document.getElementById("workerOptions");
+            var strUser = e.options[e.selectedIndex].text;
+            document.getElementById("display_worker").innerHTML = strUser;
+        }
+
+        function run2() {
+            var e = document.getElementById("statusOptions");
+            var strUser = e.options[e.selectedIndex].text;
+            document.getElementById("display_status").innerHTML = strUser;
+        }
+
+    </script>
+</head>
+<body onload="GetWorkersList('#div_show_workers'); GetStatusList('#div_show_status')">
+    <table>
+        <tr>
+            <td>WORKER SUMMARY & DETAIL REPORT</td>
+            <td style="padding-left:40%; font-size:200%">SAMPLE REPORT</td>
+        </tr>
+        <tr>
+            <td>
+                Report Date:
+                <script type="text/javascript">
+                    var currentTime = new Date();
+                    var month = currentTime.getMonth() + 1;
+                    var day = currentTime.getDate();
+                    var year = currentTime.getFullYear();
+                    document.write(month + "/" + day + "/" + year);
+                </script>
+            </td>
+        </tr>
+    </table>
+    <div id="myDiv1">
+        <section data-ng-controller="MainController">
+            <table>
+                <tr>
+                    <td>
+                        REPORT FOR ASSIGNED WORKER
+                    </td>
+                    <td style="padding-left:5%">
+                        <span id="div_show_workers"></span>
+                        <span id="display_worker" style="display:none"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        FILE STATUS
+                    </td>
+                    <td style="padding-left:5%">
+                        <span id="div_show_status"></span>
+                        <span id="display_status" style="display:none"></span>
+                    </td>
+                    <td style="padding-left:5%">
+                        <span id="getClients">
+                            <button ng-click="getAll('div_show_workers', 'display_worker', 'div_show_status', 'display_status')">Generate Report</button>
+                        </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3>Summary:</h3>
+                    </td>
+                </tr>
+            </table>
+
+            <table border="1" cellpadding="10">
+                <thead>
+                    <tr>
+                        <th>Total Count of Assigned in Selected Status</th>
+                        <th>Total Assignments</th>
+                        <th>Open Files for Workers</th>
+                        <th>Closed Files for Workers</th>
+                        <th>Reopened Files for workers</th>
+                        <th>Status None</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td id="totalselectedstatus"></td>
+                        <td id="totalstatus"></td>
+                        <td id="openstatus"></td>
+                        <td id="closestatus"></td>
+                        <td id="reopenstatus"></td>
+                        <td id="nonetatus"></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h1>{{ message }}</h1>
+            <div>{{ error }}</div>
+            <hr />
+            <table class='ui-state-highlight' data-ng-show="clients" border="1" cellpadding="10">
+                <thead>
+                    <tr>
+                        <th>Client Id</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Fiscal Year</th>
+                        <th>Month</th>
+                        <th>Day</th>
+                        <th>Program</th>
+                        <th>Police File No</th>
+                        <th>Court File No</th>
+                        <th>Service</th>
+                        <th>Victi of Incident</th>
+                        <th>Family Violence File</th>
+                        <th>Gender</th>
+                        <th>Ethinicity</th>
+                        <th>Age</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr data-ng-repeat="c in allClients">
+                        <td>{{ c.ClientId }}</td>
+                        <td>{{ c.FirstName }}</td>
+                        <td>{{ c.Surname }}</td>
+                        <td>{{ c.FiscalYear.FiscalYearName }}</td>
+                        <td>{{ c.Month }}</td>
+                        <td>{{ c.Day }}</td>
+                        <td>{{ c.Program.ProgramName }}</td>
+                        <td>{{ c.PoliceFileNumber }}</td>
+                        <td>{{ c.CourtFileNumber }}</td>
+                        <td>{{ c.Service.ServiceName }}</td>
+                        <td>{{ c.VictimOfIncident.VictimOfIncidentName }}</td>
+                        <td>{{ c.FamilyViolenceFile.FamilyViolenceFileName }}</td>
+                        <td>{{ c.Gender.GenderName }}</td>
+                        <td>{{ c.Ethnicity.EthnicityName }}</td>
+                        <td>{{ c.Age.AgeName }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </div>
+</body>
+</html>

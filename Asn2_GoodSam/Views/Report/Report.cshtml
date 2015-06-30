@@ -1,0 +1,146 @@
+﻿@model IEnumerable<Asn2_GoodSam.Models.Client.Client>
+
+@{
+    ViewBag.Title = "Report";
+}
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<table>
+    <tr>
+        <td>WORKER SUMMARY & DETAIL REPORT</td>
+        <td style="padding-left:40%; font-size:200%">SAMPLE REPORT</td>
+    </tr>
+    <tr>
+        <td>
+            Report Date:
+            <script type="text/javascript">
+                var currentTime = new Date();
+                var month = currentTime.getMonth() + 1;
+                var day = currentTime.getDate();
+                var year = currentTime.getFullYear();
+                document.write(month + "/" + day + "/" + year);
+            </script>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>
+            REPORT FOR ASSIGNED WORKER
+        </td>
+        <td style="padding-left:20%">
+            @Html.Raw(ViewBag.WorkerName)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            FILE STATUS
+        </td>
+        <td style="padding-left:20%">
+            @Html.Raw(ViewBag.StatusSelected)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Summary:</h3>
+        </td>
+    </tr>
+</table>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Total Count of Assigned in Selected Status</th>
+            <th>Total Assignments</th>
+            <th>Open Files for Workers</th>
+            <th>Closed Files for Workers</th>
+            <th>Reopened Files for workers</th>
+            <th>Status None</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Html.Raw(ViewBag.SelectedCount)</td>
+            <td>@Html.Raw(ViewBag.TotalCount)</td>
+            <td>@Html.Raw(ViewBag.OpenCount)</td>
+            <td>@Html.Raw(ViewBag.ClosedCount)</td>
+            <td>@Html.Raw(ViewBag.ReopenedCount)</td>
+            <td>@Html.Raw(ViewBag.NoneCount)</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>
+                <h3>Detail for Selected Status</h3>
+            </td>
+        </tr>
+    </tfoot>
+</table>
+<table class="table">
+    <tr>
+        <th>Client Id</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Fiscal Year</th>
+        <th>Month</th>
+        <th>Day</th>
+        <th>Program</th>
+        <th>Police File No</th>
+        <th>Court File No</th>
+        <th>Service</th>
+        <th>Victi of Incident</th>
+        <th>Family Violence File</th>
+        <th>Gender</th>
+        <th>Ethinicity</th>
+        <th>Age</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FiscalYear.FiscalYearName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Month)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Day)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Program.ProgramName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PoliceFileNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourtFileNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Service.ServiceName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VictimOfIncident.VictimOfIncidentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FamilyViolenceFile.FamilyViolenceFileName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender.GenderName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ethnicity.EthnicityName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age.AgeName)
+            </td>
+        </tr>
+    }
+</table>

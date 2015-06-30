@@ -1,0 +1,58 @@
+﻿@model Asn2_GoodSam.Models.Client.Client
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Client</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChildrenZeroToSix)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChildrenZeroToSix)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChildrenSevenToTwelve)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChildrenSevenToTwelve)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChildrenThirteenToEighteen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChildrenThirteenToEighteen)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ClientId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

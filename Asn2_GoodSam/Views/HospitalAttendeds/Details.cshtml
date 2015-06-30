@@ -1,0 +1,26 @@
+﻿@model Asn2_GoodSam.Models.Client.HospitalAttended
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>HospitalAttended</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HospitalAttendedName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HospitalAttendedName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.HospitalAttendedId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

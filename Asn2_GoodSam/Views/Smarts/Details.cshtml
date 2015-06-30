@@ -1,0 +1,39 @@
+﻿@model Asn2_GoodSam.Models.Client.Smart
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Smart</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Smart dropdownlist details are present in Database but not displayed here.
+        </dt>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AccompanimentMinutes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AccompanimentMinutes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberTransportsProvided)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberTransportsProvided)
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ClientID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

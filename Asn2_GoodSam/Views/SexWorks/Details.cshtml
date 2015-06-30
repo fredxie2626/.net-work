@@ -1,0 +1,26 @@
+﻿@model Asn2_GoodSam.Models.Client.SexWork
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SexWork</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SexWorkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SexWorkName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SexWorkId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

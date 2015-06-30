@@ -1,0 +1,26 @@
+﻿@model Asn2_GoodSam.Models.Client.VictimServicesAttendance
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>VictimServicesAttendance</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.VictimServicesAttendanceName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VictimServicesAttendanceName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VictimServicesAttendanceId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

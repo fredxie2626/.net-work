@@ -1,0 +1,14 @@
+﻿@using (Html.BeginForm("GetWorkers", "Roles"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <p>
+        Username : @Html.ListBoxFor("UserName", (IEnumerable<SelectListItem>)ViewBag.Workers, "Select ...")
+
+        @ViewBag.ResultMessage
+    </p>
+
+    <input type="submit" value="Save" />
+}
+<hr />

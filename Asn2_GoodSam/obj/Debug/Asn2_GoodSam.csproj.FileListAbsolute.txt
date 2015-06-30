@@ -1,0 +1,571 @@
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+C:\Users\ajbri_000\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+D:\Cloud Storage\Dropbox\Personal\COMP 4870\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Net.Http.Formatting.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Cors.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.Cors.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Net.Http.Formatting.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.Cors.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.WebHost.dll
+E:\BCIT term4\COMP 4870 InternetPlan\WorkSpace\Assign3\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.WebHost.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Net.Http.Formatting.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Cors.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.Cors.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.WebHost.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Net.Http.Formatting.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.Cors.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.WebHost.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+C:\Users\fred xie\Desktop\merge2\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Owin.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Net.Http.Formatting.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Cors.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.Cors.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.WebHost.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\WebGrease.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Net.Http.Formatting.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.Cors.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Http.WebHost.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Helpers.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Mvc.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Optimization.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.Razor.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Owin.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Net.Http.Formatting.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Cors.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Helpers.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.Cors.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.WebHost.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Mvc.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Optimization.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Razor.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\WebGrease.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Net.Http.Formatting.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.Cors.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.WebHost.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Helpers.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Mvc.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Optimization.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Razor.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb
+C:\Users\ajbri_000\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Asn2_GoodSam.dll.config
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Asn2_GoodSam.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Asn2_GoodSam.pdb
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Antlr3.Runtime.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.SqlServer.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Newtonsoft.Json.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Owin.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Net.Http.Formatting.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Cors.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Helpers.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.Cors.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.WebHost.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Mvc.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Optimization.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Razor.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Razor.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\WebGrease.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\EntityFramework.SqlServer.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Net.Http.Formatting.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.Cors.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Http.WebHost.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Helpers.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Mvc.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Optimization.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.Razor.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\System.Web.WebPages.Razor.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Antlr3.Runtime.pdb
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Newtonsoft.Json.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csprojResolveAssemblyReference.cache
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.ClientMigrations.ClientCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.TempPwdMigrations.InitialCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.Migrations.UserMigrations.UserCreate.resources
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.csproj.GenerateResource.Cache
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.dll
+C:\Users\fred xie\Desktop\Asn2_GoodSam(merged)\Asn2_GoodSam\obj\Debug\Asn2_GoodSam.pdb

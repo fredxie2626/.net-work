@@ -1,0 +1,54 @@
+﻿@model Asn2_GoodSam.Models.Client.Smart
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Smart</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            Smart dropdownlist details are present in Database but not displayed here.
+        </dt>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AccompanimentMinutes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AccompanimentMinutes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberTransportsProvided)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberTransportsProvided)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RefferedToNursePractitioner)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RefferedToNursePractitioner)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
